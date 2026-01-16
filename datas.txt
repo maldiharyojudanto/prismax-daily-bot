@@ -1,0 +1,3 @@
+email/solanaaddress|token
+email/solanaaddress|token
+etc...
